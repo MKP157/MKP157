@@ -1,0 +1,4 @@
+- 👋 Hello there! My name is Matthew Kenneth Peterson.
+- 👀 I’m interested in most things computers, as long as it involves building them from the ground up.
+- 🌱 I’m currently learning Java fundamentals (mainly collaboration and JavaFX) at the University of New Brunswick, Saint John campus.
+- 📫 You can reach me anytime at my university email: mpeters9@unb.ca
